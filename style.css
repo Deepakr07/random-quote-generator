@@ -4,7 +4,7 @@ body{
 
 }
 .container{
-    background-image: url('./Screenshot\ 2023-05-25\ 000904.png');
+    background-image: url('./assets/Screenshot\ 2023-05-25\ 000904.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -17,7 +17,7 @@ body{
 .quote-main{
     
     background: white;
-    background-image: url('./scribble.png');
+    background-image: url('./assets/scribble.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
