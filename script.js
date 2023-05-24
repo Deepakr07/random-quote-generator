@@ -1,5 +1,5 @@
 
-let url = "http://api.quotable.io/random";
+let url = "https://api.quotable.io/random";
 let quote = document.getElementById("quote-para");
 let author = document.getElementById("athr-name");
 let btn = document.getElementById("next-quote");
