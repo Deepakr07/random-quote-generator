@@ -8,7 +8,6 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    border: 2px solid red;
     height: 100vh;
     margin: auto 0;
     display: flex;
@@ -17,7 +16,6 @@ body{
 }
 .quote-main{
     
-    border: 3px solid yellow;
     background: white;
     background-image: url('./scribble.png');
     background-repeat: no-repeat;
@@ -37,7 +35,6 @@ body{
     width: 20%;
     height: 30%;
     margin: 0 auto;
-    border: 2px solid black;
 }
 .quote-image img{
     width:50%;
